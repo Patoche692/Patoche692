@@ -29,13 +29,13 @@ An engineering student at Grenoble INP - Ensimag, passionate about games / apps 
 <a href="https://instagram.com/patoche.attmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patoche.attmt" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/704719516273344543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patocheattmt" height="30" width="40" /></a> -->
 #  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> Hi 👋, I'm Patrick <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-🔭 I'm an engineering student at Ensimag. My fascination with programming started during my high school years, and I have been eager to learn and experiment with new programming languages ever since. From developing 2D and 3D video games to building Android apps, I have always found joy in bringing my ideas to life through the power of code.
+🚀 I'm an engineering student at Ensimag. My fascination with programming started during my high school years, and I have been eager to learn and experiment with new programming languages ever since. From developing 2D and 3D video games to building Android apps, I have always found joy in bringing my ideas to life through the power of code.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-My journey into programming began with C and C++, quickly followed by OpenGL. I have also delved into the world of Android development.
+<!-- My journey into programming began with C and C++, quickly followed by OpenGL. I have also delved into the world of Android development. -->
 
-Here you can find some of my projects.
+🔍 Here you can explore a few of my projects. Some of them are very old and are just here as a showcase.
 
 
 ## 🌐 Socials:
@@ -46,7 +46,7 @@ Here you can find some of my projects.
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Patoche692&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patoche692&theme=gruvbox&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Patoche692&theme=gruvbox&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patoche692&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
