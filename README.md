@@ -31,7 +31,7 @@ An engineering student at Grenoble INP - Ensimag, passionate about games / apps 
 
 
 # Hi 👋, I'm Patrick
-I'm an engineering student at Grenoble INP - Ensimag, passionate about games / apps development, split keyboards and Vim :)
+I'm an engineering student at Grenoble INP - Ensimag, passionate about games / apps development, split keyboards and Vim :) \
 Here you can find some of my projects
 
 
