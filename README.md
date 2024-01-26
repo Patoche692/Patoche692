@@ -23,7 +23,7 @@ An engineering student at Grenoble INP - Ensimag, passionate about games / apps 
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/patrick-attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-attimont" height="30" width="40" /></a>
 <a href="https://fb.com/patrick.attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick.attimont" height="30" width="40" /></a>
