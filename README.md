@@ -1,6 +1,6 @@
-# Patrick Attimont 👋
+# Hi 👋, I'm Patrick Attimont
 
-I'm an engineering student at Grenoble INP - Ensimag, passionate about games / apps development, split keyboards and Vim :)
+An engineering student at Grenoble INP - Ensimag, passionate about games / apps development, split keyboards and Vim :)
 
 ---
 
@@ -19,9 +19,17 @@ I'm an engineering student at Grenoble INP - Ensimag, passionate about games / a
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
 <br>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/patrick-attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-attimont" height="30" width="40" /></a>
+<a href="https://fb.com/patrick.attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick.attimont" height="30" width="40" /></a>
+<a href="https://instagram.com/patoche.attmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patoche.attmt" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/704719516273344543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patocheattmt" height="30" width="40" /></a>
+</p>
 
 
 
