@@ -1,10 +1,10 @@
-# Hi 👋, I'm Patrick Attimont
+# Hi 👋, I'm Patrick
 
 An engineering student at Grenoble INP - Ensimag, passionate about games / apps development, split keyboards and Vim :)
 
 ---
 
-### Languages and tools
+## Languages and tools
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
@@ -23,13 +23,11 @@ An engineering student at Grenoble INP - Ensimag, passionate about games / apps 
 
 <br>
 
-# Connect with me
-<p align="left">
+## Connect with me
 <a href="https://linkedin.com/in/patrick-attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-attimont" height="30" width="40" /></a>
 <a href="https://fb.com/patrick.attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick.attimont" height="30" width="40" /></a>
 <a href="https://instagram.com/patoche.attmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patoche.attmt" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/704719516273344543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patocheattmt" height="30" width="40" /></a>
-</p>
 
 
 
