@@ -41,7 +41,7 @@ These days, whenever I'm free, I'm diving deep into the world of 3D rendering - 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 
-🔍 Here you can explore a few of my projects. Some of them are very old and are just here as a showcase - don't mind the code structure!.
+🔍 Here you can explore a few of my projects. Some of them are very old and are just here as a showcase - don't mind the code structure!
 
 
 ## 🌐 Socials:
