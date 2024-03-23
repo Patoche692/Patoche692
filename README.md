@@ -36,7 +36,7 @@ Back in high school, I started playing around with C and C++. Since then, I've b
 
 Besides C and C++, I've also learned Java and Kotlin for making apps on Android phones. It's been super fun seeing what I can create for mobile devices.
 
-These days, whenever I'm free, I'm diving deep into the world of 3D rendering - basically how to make things look super realistic on computers. This knowledge is fueling some super cool computer graphics projects I'm working on!
+These days, whenever I'm free, I'm diving deep into the world of 3D rendering - basically how to make things look super realistic on computers. This knowledge is fueling some cool computer graphics projects I'm working on!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
