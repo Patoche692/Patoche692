@@ -27,18 +27,21 @@
 <a href="https://fb.com/patrick.attimont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patrick.attimont" height="30" width="40" /></a>
 <a href="https://instagram.com/patoche.attmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patoche.attmt" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/704719516273344543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patocheattmt" height="30" width="40" /></a> -->
-#  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> Hi 👋, I'm Patrick <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<!--#  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />--> 
+# Hi 👋, I'm Patrick <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
 🚀 I'm a French engineering student at Ensimag who really enjoys coding. One thing I love the most is making cool graphics and 3D stuff.
 
 Back in high school, I started playing around with C and C++. Since then, I've been hooked! I even built some apps and 3D games using OpenGL and Unreal Engine (pretty basic, but hey, I was learning!).
 
 Besides C and C++, I've also learned Java and Kotlin for making apps on Android phones. It's been super fun seeing what I can create for mobile devices.
 
+These days, whenever I'm free, I'm diving deep into the world of 3D rendering - basically how to make things look super realistic on computers. This knowledge is fueling some super cool computer graphics projects I'm working on!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 
-🔍 Here you can explore a few of my projects. Some of them are very old and are just here as a showcase (don't mind the code structure!).
+🔍 Here you can explore a few of my projects. Some of them are very old and are just here as a showcase - don't mind the code structure!.
 
 
 ## 🌐 Socials:
